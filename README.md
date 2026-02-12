@@ -1,6 +1,6 @@
 # ToDo API - FastAPI
 
-API REST desarrollada con **FastAPI** para la gestión de tareas (To-Do List).  
+API REST desarrollada con **FastAPI** para la gestión de tareas.  
 Las tareas se almacenan en un archivo local en formato JSON, sin utilizar base de datos.
 
 Este proyecto implementa operaciones CRUD completas y sigue una estructura modular separando modelos, lógica de almacenamiento y endpoints.
@@ -136,3 +136,4 @@ Este proyecto está bajo la licencia MIT.
 ##  Autor
 
 Desarrollado como proyecto práctico de aprendizaje de FastAPI por **[Sergio Agulla](https://www.linkedin.com/in/sergio-agulla/)**.
+
