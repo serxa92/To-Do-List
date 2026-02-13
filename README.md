@@ -11,11 +11,11 @@ Este proyecto implementa operaciones CRUD completas y sigue una estructura modul
 
 La API permite:
 
-- ✅ Crear una tarea → `POST /tasks`
-- 📋 Obtener todas las tareas → `GET /tasks`
-- 🔎 Obtener una tarea por ID → `GET /tasks/{id}`
-- ✔ Marcar una tarea como completada → `PUT /tasks/{id}`
-- 🗑 Eliminar una tarea → `DELETE /tasks/{id}`
+-  Crear una tarea → `POST /tasks`
+-  Obtener todas las tareas → `GET /tasks`
+-  Obtener una tarea por ID → `GET /tasks/{id}`
+-  Marcar una tarea como completada → `PUT /tasks/{id}`
+-  Eliminar una tarea → `DELETE /tasks/{id}`
 
 ---
 
@@ -54,7 +54,7 @@ La API permite:
 - created_at: fecha de creación en formato ISO 8601 (UTC)
 
 
-## ⚙ Requisitos
+##  Requisitos
 
 - Python 3.12+
 - pip
@@ -93,7 +93,7 @@ Acceder en navegador:
 
 ````http://localhost:8000/docs````
 
-## 🧪 Pruebas con Swagger o Insomnia
+##  Pruebas con Swagger o Insomnia
 
 - Swagger está disponible automáticamente en:
 
@@ -136,4 +136,5 @@ Este proyecto está bajo la licencia MIT.
 ##  Autor
 
 Desarrollado como proyecto práctico de aprendizaje de FastAPI por **[Sergio Agulla](https://www.linkedin.com/in/sergio-agulla/)**.
+
 
